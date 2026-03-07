@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/graphemeu/graphemeu-${{ version }}.tar.gz
-  sha256: 1444520f6899fd30114fc2a39f297d86d10fa0f23bf7579f772f8bc7efaa2542
+  sha256: 42bbe373d7c146160f286cd5f76b1a8ad29172d7333ce10705c5cc282462a4f8
 
 build:
   number: 0
