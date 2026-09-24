@@ -1,8 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.10.0"
-  python_min: "3.10"
+  version: "0.11.0"
 
 package:
   name: graphemeu
@@ -10,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/graphemeu/graphemeu-${{ version }}.tar.gz
-  sha256: 2cbf04ca39f16452c1a70e8afe403a86039e390b5dcc7e410a9a8a15c1a9c3b8
+  sha256: d03e0f625dcf8c6ff81e52d85bacad3f1ecf66c54df27a2dbd0544a0d02903d4
 
 build:
   number: 0
