@@ -6,7 +6,6 @@ context:
 
 package:
   name: graphemeu
-  version: ${{ version }}
 
 source:
   url: https://pypi.org/packages/source/g/graphemeu/graphemeu-${{ version }}.tar.gz
